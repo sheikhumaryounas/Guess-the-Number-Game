@@ -32,10 +32,6 @@ The player has 3 chances to guess the correct number.
 2. Open `index.html` in your browser.
 3. Start guessing!
 
-## 📸 Preview
-
-You can improve this section by adding a screenshot of your project.
-
 ## 👨‍💻 Author
 
 Umar Younas
